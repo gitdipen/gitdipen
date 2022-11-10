@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gitdipen
-- 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning bug bounty.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m dipen working as a cybersecurity anlyst.
+- 👀 I’m interested in web3.
+- 🌱 I’m currently learning bug bounty and web3.
+- 💞️ I’m looking to collaborate on web3 research.
+- 📫 Reach me at linkdin - https://www.linkedin.com/in/dipenthaker/
 
 <!---
 gitdipen/gitdipen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
