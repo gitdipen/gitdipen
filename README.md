@@ -1,7 +1,7 @@
-- 👋 Hi, I’m dipen working as a cybersecurity anlyst.
-- 👀 I’m interested in web3.
-- 🌱 I’m currently learning bug bounty and web3.
-- 💞️ I’m looking to collaborate on web3 research.
+- 👋 Hi, I’m dipen studying at University and have 3 years of experience as a cybersecurity anlyst.
+- 👀 I’m interested in Red Team.
+- 🌱 I’m currently learning about Cyber Security.
+- 💞️ I’m looking to collaborate on Pentesting.
 - 📫 Reach me at linkdin - https://www.linkedin.com/in/dipenthaker/
 
 <!---
