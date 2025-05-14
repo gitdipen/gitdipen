@@ -1,6 +1,5 @@
 - 👋 Hi, I’m dipen studying at Deakin University and have 3 years of experience as a cybersecurity analyst.
 - 👀 I’m interested in Red Team.
-- 🌱 I’m currently learning about Cyber Security.
 - 💞️ I’m looking to collaborate on Pentesting.
 - 📫 Reach me at linkdin - https://www.linkedin.com/in/dipenthaker/
 
