@@ -33,19 +33,19 @@ I'm a passionate and results-driven Cybersecurity Analyst with 3 years of hands-
 * **Endpoint Security:** SentinelOne, Harmony Point
 * **SIEM/Log Management:** Experience with event collection, log management, and security event monitoring.
 
-<details>
-  <summary>Click to view more about my projects!</summary>
-  
 ---
 
-## 📊 My GitHub Stats:
-![Dipen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitdipen&show_icons=true&theme=dark)
+## 📊 My GitHub Stats & Activity:
+
+![Profile Views](https://komarev.com/ghpvc/?username=gitdipen&color=green)
+
+![Dipen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitdipen&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdipen&layout=compact&theme=dark)
 
 ---
 
 ## 🔗 Connect With Me:
 * **LinkedIn:** [https://www.linkedin.com/in/dipenthaker/](https://www.linkedin.com/in/dipenthaker/)
-* **GitHub:** Feel free to explore my repositories for various projects and contributions.
+* **GitHub:** Feel free to explore my repositories for various contributions and projects.
 
 ---
